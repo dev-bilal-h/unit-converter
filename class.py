@@ -200,7 +200,3 @@ with col2:
 #Footer
 st.markdown("<br><br><p style='text-align: center; color:rgb(255, 72, 0)'>Created by Bilal Hassan</p>", unsafe_allow_html=True)
  
-
-
-
- 
